@@ -40,7 +40,7 @@ namespace DesafioFundamentos.Models
 
                 valorTotal = precoInicial + precoPorHora * horas;    
 
-                //  IMPLEMENTAÇÃO DA FUNÇÃO REMOVER PLACA IMPLEMENTADA!!✔
+                //  FUNÇÃO REMOVER PLACA IMPLEMENTADA!!✔
 
                 veiculos.Remove(placa);
 
